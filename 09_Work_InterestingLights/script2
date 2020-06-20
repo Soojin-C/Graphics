@@ -1,0 +1,30 @@
+push
+rotate
+y 45
+rotate
+x 15
+rotate
+z 15
+box
+75 150 50 76 76 76
+sphere
+113 208 12 38
+box
+227 150 50 76 76 76
+sphere
+265 208 12 38
+box
+379 150 50 76 76 76
+sphere
+417 208 12 38
+torus
+456 266 -27 5 41
+box
+531 150 50 76 76 76
+sphere
+569 208 12 38
+torus
+608 266 -27 5 41
+pop
+save
+aaa.png

@@ -1,0 +1,12 @@
+frames 50
+basename interesting
+push
+move 250 250 0
+rotate z 360 spinny
+rotate y 360 yaxiz
+rotate x 360 happy
+torus 0 0 0 10 125
+torus 0 0 0 10 60
+vary spinny 0 49 0 1
+torus 0 0 0 10 85
+vary happy 0 49 0 1

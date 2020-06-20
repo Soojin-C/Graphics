@@ -1,0 +1,86 @@
+push
+push
+push
+push
+box
+0 500 0 50 50 50
+rotate
+x 30
+move
+25 0 0
+box
+0 500 0 50 50 50
+rotate
+x 30
+move
+25 0 0
+box
+0 500 0 50 50 50
+rotate
+x 30
+move
+25 0 0
+box
+0 500 0 50 50 50
+rotate
+x 30
+move
+25 0 0
+pop
+rotate
+x 5
+box
+225 500 0 50 50 50
+move
+25 0 0
+rotate
+x 30
+box
+225 500 0 50 50 50
+move
+25 0 0
+rotate
+x 30
+box
+225 500 0 50 50 50
+move
+25 0 0
+rotate
+x 30
+box
+225 500 0 50 50 50
+move
+25 0 0
+rotate
+x 30
+pop
+push
+rotate
+x 10
+box
+400 500 0 50 50 50
+move
+25 0 0
+rotate
+x 30
+box
+400 500 0 50 50 50
+move
+25 0 0
+rotate
+x 30
+box
+400 500 0 50 50 50
+move
+25 0 0
+rotate
+x 30
+box
+400 500 0 50 50 50
+move
+25 0 0
+rotate
+x 30
+display
+save
+random.png

@@ -1,0 +1,103 @@
+line
+250 0 0 300 0 0
+line
+300 0 0 300 50 0
+line
+300 50 0 250 50 0
+line
+250 50 0 250 0 0
+ident
+rotate
+z 2
+apply
+line
+250 0 0 300 0 0
+line
+300 0 0 300 50 0
+line
+300 50 0 250 50 0
+line
+250 50 0 250 0 0
+rotate
+z 2
+apply
+line
+250 0 0 300 0 0
+line
+300 0 0 300 50 0
+line
+300 50 0 250 50 0
+line
+250 50 0 250 0 0
+rotate
+z 2
+apply
+line
+250 0 0 300 0 0
+line
+300 0 0 300 50 0
+line
+300 50 0 250 50 0
+line
+250 50 0 250 0 0
+rotate
+z 2
+apply
+line
+250 0 0 300 0 0
+line
+300 0 0 300 50 0
+line
+300 50 0 250 50 0
+line
+250 50 0 250 0 0
+rotate
+z 2
+apply
+line
+250 0 0 300 0 0
+line
+300 0 0 300 50 0
+line
+300 50 0 250 50 0
+line
+250 50 0 250 0 0
+rotate
+z 2
+apply
+line
+250 0 0 300 0 0
+line
+300 0 0 300 50 0
+line
+300 50 0 250 50 0
+line
+250 50 0 250 0 0
+rotate
+z 2
+apply
+line
+250 0 0 300 0 0
+line
+300 0 0 300 50 0
+line
+300 50 0 250 50 0
+line
+250 50 0 250 0 0
+rotate
+z 2
+apply
+line
+250 0 0 300 0 0
+line
+300 0 0 300 50 0
+line
+300 50 0 250 50 0
+line
+250 50 0 250 0 0
+rotate
+z 2
+apply
+display
+save
+pic2.png
